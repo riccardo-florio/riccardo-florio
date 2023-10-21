@@ -8,7 +8,7 @@
 
 #### What about me?
 
-- 🦾 I’m currently working on [INDUSTRIAL AND MOBILE ROBOTICS PROJECT](https://github.com/riccardo-florio/industrial-and-mobile-robotics-project)
+- 🦾 I’m currently working on [Industrial and mobile robotics project](https://github.com/riccardo-florio/industrial-and-mobile-robotics-project)
 - 🌱 I’m currently learning **NodeJS, React and Tailwind**
 - 👨‍💻 All of my projects are available at [https://riccardoflorio.altervista.org/](https://riccardoflorio.altervista.org/)
 - 💬 Ask me about **Matlab, Robotics, Java, HTML, CSS, JavaScript, PHP and SQL**
