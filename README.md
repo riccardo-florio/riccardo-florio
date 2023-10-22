@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **NodeJS, React and Tailwind**
 - 👨‍💻 All of my projects are available at [https://riccardoflorio.altervista.org/](https://riccardoflorio.altervista.org/)
 - 💬 Ask me about **Matlab, Robotics, Java, HTML, CSS, JavaScript, PHP and SQL**
-- 📫 How to reach me **riccardo_florio@outlook.it**
+- 📫 How to reach me **riccardo.florio20@gmail.com**
 - 📄 Know about my experiences [TODO](TODO)
 - ⚡ Fun fact **TODO**
 
