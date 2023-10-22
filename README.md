@@ -25,10 +25,12 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="./Design-Tools-Animated-GIF-Icon-pack.gif">
 
 #### Languages and Tools 
 ##### Robotics and automation
+
+<img align="right" alt="Coding" width="550" src="./Smart-Technology-Animated-GIF-Icon-Pack-2-by-Discover-Template.gif">
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="40"/>](https://www.mathworks.com/)
 [<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40"/>](https://www.arduino.cc/)
 
