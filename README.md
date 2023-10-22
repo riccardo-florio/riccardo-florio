@@ -25,6 +25,8 @@
 
 ---
 
+<img align="right" alt="Coding" width="400" src="./Design-Tools-Animated-GIF-Icon-pack.gif">
+
 #### Languages and Tools 
 ##### Robotics and automation
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="40"/>](https://www.mathworks.com/)
