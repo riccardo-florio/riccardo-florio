@@ -1,14 +1,14 @@
-[![MasterHead](./github-header-image.png)](https://rishavchanda.io)
+[![MasterHead](./img/github-header-image.png)](https://rishavchanda.io)
 # Hi 👋, I'm Riccardo Florio
 ### A computer engineering student at UNICAL
 
-<img align="right" alt="Coding" width="400" src="./working-pic.gif">
+<img align="right" alt="Coding" width="400" src="./img/working-pic.gif">
 
 ---
 
 #### What about me?
 
-- 🦾 I’m currently working on [Industrial and mobile robotics project](https://github.com/riccardo-florio/industrial-and-mobile-robotics-project)
+- 🦾 I’m currently working on [secret project](https://github.com/riccardo-florio/ospitaecucina) 🤐
 - 🌱 I’m currently learning **NodeJS, React and Tailwind**
 - 👨‍💻 All of my projects are available at [https://riccardoflorio.altervista.org/](https://riccardoflorio.altervista.org/)
 - 💬 Ask me about **Matlab, Robotics, Java, HTML, CSS, JavaScript, PHP and SQL**
@@ -29,7 +29,7 @@
 #### Languages and Tools 
 ##### Robotics and automation
 
-<img align="right" alt="Coding" width="400" src="./Smart-Technology-Animated-GIF-Icon-Pack-2-by-Discover-Template.gif">
+<img align="right" alt="Coding" width="400" src="./img/Smart-Technology-Animated-GIF-Icon-Pack-2-by-Discover-Template.gif">
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="40"/>](https://www.mathworks.com/)
 [<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40"/>](https://www.arduino.cc/)
