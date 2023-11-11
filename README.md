@@ -1,4 +1,5 @@
-[![MasterHead](./img/github-header-image.png)](https://rishavchanda.io)
+<img src="./img/github-header-image.png">
+
 # Hi 👋, I'm Riccardo Florio
 ### A computer engineering student at UNICAL
 
@@ -8,7 +9,7 @@
 
 #### What about me?
 
-- 🦾 I’m currently working on [secret project](https://github.com/riccardo-florio/ospitaecucina) 🤐
+- 🦾 I’m currently working on [secret project](https://riccardoflorio.altervista.org/#projects) 🤐
 - 🌱 I’m currently learning **NodeJS, React and Tailwind**
 - 👨‍💻 All of my projects are available at [https://riccardoflorio.altervista.org/](https://riccardoflorio.altervista.org/)
 - 💬 Ask me about **Matlab, Robotics, Java, HTML, CSS, JavaScript, PHP and SQL**
