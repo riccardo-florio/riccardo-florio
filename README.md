@@ -30,7 +30,7 @@ Link icone social: https://dev.to/envoy_/150-badges-for-github-pnk
 Link icone: https://devicon.dev/
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo-florio&layout=pie" alt="Top Languages">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo-florio&layout=pie" alt="Top Languages" width="350">
 
 
 |Automation|General purpose|
