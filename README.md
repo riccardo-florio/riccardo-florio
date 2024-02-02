@@ -33,17 +33,13 @@ Link icone: https://devicon.dev/
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo-florio&layout=pie" alt="Top Languages">
 
 
-|Automation|
-|:------------:|
-|[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" height="40"/>](https://www.mathworks.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" height="40"/>](https://www.arduino.cc/)|
+|Automation|General purpose|
+|:------------:|:------------:|
+|[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" height="40"/>](https://www.mathworks.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" height="40"/>](https://www.arduino.cc/)|[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="40"/>](https://www.mathworks.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="40"/>](https://www.python.org/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" height="40"/>](https://flutter.dev/)|
 
 |Web developing|
 |:------------:|
-|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/>](https://www.w3.org/html/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>](https://www.w3schools.com/css/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="40"/>](https://cloud.google.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="40"/>](https://www.mysql.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40"/>](https://nodejs.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/>](https://reactjs.org/) [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/>](https://tailwindcss.com/)| 
-
-|General purpose|
-|:------------:|
-|[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="40"/>](https://www.mathworks.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="40"/>](https://www.arduino.cc/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" height="40"/>](https://www.arduino.cc/)|
+|[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="40"/>](https://www.mysql.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40"/>](https://nodejs.org/) [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="40"/>](https://cloud.google.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/>](https://reactjs.org/) [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/>](https://tailwindcss.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/>](https://www.w3.org/html/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>](https://www.w3schools.com/css/)| 
 
 |Other|
 |:------------:|
