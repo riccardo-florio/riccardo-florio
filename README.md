@@ -44,3 +44,13 @@ Link icone: https://devicon.dev/
 |Other|
 |:------------:|
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/>](https://www.linux.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/>](https://www.docker.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>](https://git-scm.com/) 
+
+<!--
+#
+
+<details>
+  <summary>My coding journey</summary>
+
+  TODO
+</details>
+-->
