@@ -11,7 +11,8 @@
 - 👨‍💻 All of my projects are available right here on github!
 - 💬 Ask me about **Matlab, Automation, Java and Web developing**
 - 📫 Reach me at [**riccardo.florio20@gmail.com**](mailto:riccardo.florio20@gmail.com)
-- 📄 Know about my experiences on the [about me](https://riccardoflorio.altervista.org/#about) page
+
+<!-- - 📄 Know about my experiences on the [about me](https://riccardoflorio.altervista.org/#about) page -->
 
 <!-- - ⚡ Fun fact **TODO** -->
 
