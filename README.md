@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm an engineering student at [UNICAL](https://www.unical.it/)
 
-<img align="right" alt="Coding" width="350" src="./img/working-pic.gif">
+<!-- <img align="right" alt="Coding" width="300" src="./img/working-pic.gif"> -->
 
 ## 🙋‍♂️ What about me?
 
