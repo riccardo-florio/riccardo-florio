@@ -1,4 +1,4 @@
-<img src="./img/github-header-image.png">
+<!-- <img src="./img/github-header-image.png"> -->
 
 # Hi 👋, I'm an engineering student at [UNICAL](https://www.unical.it/)
 
