@@ -1,4 +1,5 @@
 <!-- Profile README – riccardo-florio -->
+<!--
 <h1 align="center">Hi, I'm Riccardo 👋</h1>
 <h3 align="center">
   Master's Student in <a href="https://www.unimore.it/">Digital Automation Engineering @ UNIMORE</a>
@@ -71,3 +72,4 @@ I enjoy turning theory into practical solutions, from control systems to IoT int
   <img src="https://github-readme-stats.vercel.app/api?username=riccardo-florio&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo-florio&layout=compact" height="150" />
 </p>
+-->
